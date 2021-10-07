@@ -1,0 +1,32 @@
+package fulldatatypes;
+
+public class Main {
+	
+	public static void main(String[] args) {
+	int x = 123;
+	int y = 124;  
+	
+	//long int 
+	long h = 12312312312313123L;
+	
+	float k = 2.2f;
+	
+	double z = 34.1312334;
+	boolean m = true; 
+	char symbol = '@';
+	
+	String NAME = "Thomaskutty Reji";
+	
+	// output 
+	System.out.println("my number is "+ NAME);
+	}
+
+}
+
+
+// primitive ----------- reference 
+// faster                 slower 
+// less memory             more memory 
+// can hold only 1 value     more than one value 
+// stores data               stores address 
+// 8 types                 unlimited (user defined) 

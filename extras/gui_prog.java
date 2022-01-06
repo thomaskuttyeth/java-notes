@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Main {
+public class gui_prog {
 	public static void main(String []args) {
 		// note: input dialogue box returns a string 
 

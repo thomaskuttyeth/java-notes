@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class userinput {
 	// the main method 
 	public static void main(String []args) {
 	
@@ -17,5 +17,6 @@ public class Main {
 		System.out.println("Hello "+name);
 		System.out.println("You are "+age+" years old!");
 		System.out.println("you like "+ food);
+        scanner.close();
 	}
 }

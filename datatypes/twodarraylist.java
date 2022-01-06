@@ -1,6 +1,5 @@
-
 import java.util.*; 
-public class Main {
+public class twodarraylist {
 	public static void main(String[] args) {
 		
 		ArrayList<ArrayList<String>> groceryList = new ArrayList(); 
@@ -34,5 +33,3 @@ public class Main {
 		System.out.println(groceryList.get(1).get(1));
 	}
 }
-
-

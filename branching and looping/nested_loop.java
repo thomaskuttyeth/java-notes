@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class nested_loop {
 
 	public static void main(String[] args) {
 		
@@ -23,8 +23,7 @@ public class Main {
 			for(int j=1; j<=columns;j++) {
 				System.out.print(symbol);
 			}
-		}	
+		}
+        scanner.close();	
 	}
 }
-
-

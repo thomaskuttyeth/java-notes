@@ -5,7 +5,7 @@ import java.util.*;
  * overloaded methods= methods that share the same name but have different parameters
  * method name+ parameters = method signature
  */
-public class Main {
+public class overloading {
 	public static void main(String[] args) {
 
 		double x = add(12.4,2.1); 

@@ -1,8 +1,7 @@
 
 
-
 import java.util.Scanner;
-public class Main {
+public class logical_operators {
 	public static void main(String []args) {
 
 		// temperature verification 
@@ -31,9 +30,5 @@ public class Main {
 		else {
 			System.out.println("You are eligible");
 		}
-		
-		
 	}
 }
-
-

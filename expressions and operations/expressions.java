@@ -1,4 +1,4 @@
-public class Main {
+public class expressions {
 
 	public static void main(String []args) {
 		// expression = operands & operators 

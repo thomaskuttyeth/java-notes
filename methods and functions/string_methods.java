@@ -1,5 +1,4 @@
-
-public class Main {
+public class string_methods {
 	public static void main(String[] args) {
 
 		String name = "Thomaskutty Reji      "; 
@@ -17,4 +16,3 @@ public class Main {
 		System.out.println(name.replace("o","w"));
 	}
 }
-

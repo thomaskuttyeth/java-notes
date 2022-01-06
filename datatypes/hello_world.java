@@ -1,5 +1,4 @@
-public class Main {
-	// the main method 
+public class hello_world {
 	public static void main(String []args) {
 			
 		// print command 
@@ -12,3 +11,4 @@ public class Main {
 		System.out.print('a');
 	}
 }
+

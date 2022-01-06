@@ -1,6 +1,5 @@
-
 import java.util.ArrayList; 
-public class Main {
+public class arraylist {
 	public static void main(String[] args) {
 
 	/* Arraylist - resizable array, 
@@ -22,4 +21,3 @@ public class Main {
 	}
 	}
 }
-

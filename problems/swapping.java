@@ -1,4 +1,4 @@
-public class Main {
+public class swapping {
 	// the main method 
 	public static void main(String []args) {
 	

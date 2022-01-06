@@ -1,8 +1,7 @@
+
 import java.util.Scanner;
-
-public class Main {
-
-	public static void main(String[] args) {
+public class array {
+    public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
 		String[] cars = {"Camero", "Corvette","Tesla"}; 
@@ -10,7 +9,6 @@ public class Main {
 		cars[0] = "Mustang"; 
 		System.out.println(cars[2]);
 		System.out.println("------------------------");
-		
 		
 		// another method 
 		String[] bikes = new String[3]; 
@@ -24,5 +22,3 @@ public class Main {
 				
 	}
 }
-
-

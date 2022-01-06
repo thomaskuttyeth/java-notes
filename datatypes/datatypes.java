@@ -1,8 +1,5 @@
-package fulldatatypes;
-
-public class Main {
-	
-	public static void main(String[] args) {
+public class datatypes
+{	public static void main(String[] args) {
 	int x = 123;
 	int y = 124;  
 	
@@ -20,9 +17,7 @@ public class Main {
 	// output 
 	System.out.println("my number is "+ NAME);
 	}
-
 }
-
 
 // primitive ----------- reference 
 // faster                 slower 
@@ -30,3 +25,4 @@ public class Main {
 // can hold only 1 value     more than one value 
 // stores data               stores address 
 // 8 types                 unlimited (user defined) 
+

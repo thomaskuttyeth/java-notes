@@ -1,5 +1,4 @@
-
-public class Main {
+public class twoarray {
 	public static void main(String[] args) {
 		String[][]  cars = {	{"Camero","corvette","simverado","mandir"},
 						   		{"maend","cotte","verado","verna"},
@@ -13,5 +12,3 @@ public class Main {
 		}
 	}
 }
-
-

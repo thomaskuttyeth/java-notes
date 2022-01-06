@@ -1,6 +1,5 @@
-
 import java.util.*; 
-public class Main {
+public class foreach_prog {
 	public static void main(String[] args) {
 		
 		String[] anims = {"cat","dog","rat","bird"};

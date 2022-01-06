@@ -1,6 +1,5 @@
-
 import java.util.*; 
-public class Main {
+public class return_types {
 	public static void main(String[] args) {
 		int x = 23; 
 		int y = 21; 

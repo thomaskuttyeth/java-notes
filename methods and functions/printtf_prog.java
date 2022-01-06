@@ -1,5 +1,4 @@
-
-public class Main {
+public class printtf_prog {
 
 	public static void main(String[] args) {
 
@@ -38,5 +37,3 @@ public class Main {
 		//System.out.printf("You have this much money %,f",myDouble);
 	}
 }
-
-

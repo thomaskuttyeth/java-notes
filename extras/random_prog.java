@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Main {
+public class random_prog {
 	public static void main(String []args) {
 		Random random = new Random() ; 
 			 
@@ -14,5 +14,3 @@ public class Main {
 		System.out.println(y);				
 	}	
 }
-
-

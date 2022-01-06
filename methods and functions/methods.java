@@ -1,5 +1,5 @@
 import java.util.*; 
-public class Main {
+public class methods {
 	public static void main(String[] args) {
 		// method - a block of code that is executed whenever it is called
 		String name1= "Thomaskutty"; 
